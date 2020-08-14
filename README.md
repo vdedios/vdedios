@@ -19,10 +19,14 @@
 </a>
 <br/>
 
-### Stack:
+### Stack and tools:
 <img align="left" src="https://img.icons8.com/color/30/000000/c-programming.png"/>
 <img align="left" src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/30/000000/docker.png"/>
 <img align="left" src="https://img.icons8.com/color/30/000000/kubernetes.png"/>
 <img align="left" src="https://img.icons8.com/color/30/000000/javascript.png"/>
 <img align="left" src="https://img.icons8.com/color/30/000000/nodejs.png"/>
+<img align="left" src="https://img.icons8.com/color/30/000000/c-programming.png"/>
+<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
