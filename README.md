@@ -3,7 +3,7 @@
 ## I am a software developer and 42 student
 - 📚 I love to write and document what I learn at [my website](https://vdedios.github.io/guides)
 - 🏗 Maker and Open Source enthusiast having created projects such as [Playloop](https://hackaday.io/project/167275-playloop)
-- 🙇‍♂️ Currently deepening in software engineering at [42Madrid](https://42madrid.com)
+- 🙇‍♂️ Currently deepening in software engineering at [42Madrid](https://42madrid.com) and [c0d3](https://c0d3.com/)
 
 ### Find me in:
 <a href="https://vdedios.github.io/">
