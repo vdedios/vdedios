@@ -1,4 +1,4 @@
-### Hi, I'm Victor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hi, I'm Victor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ## About me.
 📚 I am a software developer who loves to write and document what I learn at [my website](https://vdedios.github.io/guides). I am also a maker 🏗, 3D printing and Open Source enthusiast having created projects such as [Playloop](https://hackaday.io/project/167275-playloop). I am currently deepening 🙇‍♂️  in software engineering at [42Madrid](https://42madrid.com) and [c0d3](https://c0d3.com/)
