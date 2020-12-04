@@ -2,17 +2,12 @@
 
 I am a software developer who loves to write and document what I learn at [my website](https://vdedios.github.io/guides). I am a Open Source enthusiast having created projects such as [Playloop](https://hackaday.io/project/167275-playloop). I am currently deepening 🙇‍♂️  in software engineering at [42Madrid](https://42madrid.com)
 
-### Find me in:
+### You can reach me in:
 <a href="https://vdedios.github.io/">
   <img align="left" alt="Victor's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="https://www.linkedin.com/in/victordedios">
   <img align="left" alt="Victor's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/vdedios">
-  <img align="left" alt="Victor's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<a href="https://hackaday.io/victordedios">
-  <img align="left" alt="Victor's Hackaday" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackaday.svg" />
 </a>
 <br/>
 
